@@ -1,0 +1,16 @@
+
+Open cmd with Administration :
+
+type in cmd :
+
+tracert www.prestashop.com
+
+# the first ping which is given in [ ]
+ping
+
+# second ping which is below first ping
+ping
+
+ifconfig/ipconfig
+
+netstat
