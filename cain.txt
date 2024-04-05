@@ -1,0 +1,13 @@
+
+first install this :
+
+https://www.winpcap.org/install/default.htm
+
+then this :
+
+https://web.archive.org/web/20160214132154/http://www.oxid.it/cain.html
+
+
+CrypTool :
+
+https://www.cryptool.org/ct1download/SetupCrypTool_1_4_42_en.exe
