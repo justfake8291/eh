@@ -1,0 +1,10 @@
+DOWNLOAD THE NMAP FROM : 
+https://nmap.org/download#windows
+
+color a
+nmap
+nmap -sA -T4 scanme.nmap.org
+nmap -p22,113,139 scanme.nmap.org
+nmap -sF -T4 para
+nmap -sN -p22 scanme.nmap.org
+nmap -sX -T4 scanme.nmap.org
