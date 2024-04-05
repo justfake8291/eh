@@ -1,0 +1,18 @@
+Pr1 : UseGoogle and Whois for Reconnaisasance.     - who.is
+
+Pr2 : Use CryptTool to encrypt and decrypt passwords using RC4 algorithm.    -CrypTool , cain 
+
+Pr3 : Using TraceRoute, ping, ifconfig, netstat Command          -traceroute.txt
+
+Pr4 : Using Nmapscanner to perform port scanning of various forms– ACK, SYN, FIN,
+ NULL, XMAS.         -nmap.txt
+
+Pr5 : Simulate persistant Cross Site Scripting attack.    - DVWA
+
+Pr6 : Session impersonation using Firefox and Tamper Data add-on   - Firefox , Tamper Data
+
+Pr7 : Perform SQL injection attack.  - DVWA
+
+Pr8 : Create a simple keylogger using python  - keylogger.py
+
+Pr9 : Using Metasploit to exploit   - kali.txt / VMWARE
